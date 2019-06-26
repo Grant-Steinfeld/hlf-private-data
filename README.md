@@ -2,7 +2,7 @@
 ## __ Privacy and Security Strategies 
 
 
-#Private Data Tutorial
+
 
 ## What you will learn
 1. Privacy options in HLF
@@ -15,9 +15,11 @@ For this repo, the Private data tutorial
 was setup on a MacBook Pro running v10.14.5 (Mojave)
 
 
-### We ran these commands as regular user
+### Setup environment 
+#### We ran these commands as regular user
 
-### Install or check you have the following on your computer.
+
+#### Install or check you have the following on your computer.
 
 > cURL
 > docker - ver 17.06.2-ce or greater
@@ -88,6 +90,7 @@ python --version
 git clone https://github.com/hyperledger/fabric.git
 
 ```
+# Private Data Tutorial
 
 ## Setting up the [private data tutorial](https://hyperledger-fabric.readthedocs.io/en/release-1.4/install.html)
 
