@@ -1,12 +1,12 @@
-# HYPERLEDGER FABRIC FOR THE ENTERPRISE
-## Privacy and Security Strategies 
+# HYPERLEDGER FABRIC(HLF) FOR THE ENTERPRISE
+## __ Privacy and Security Strategies 
 
 
-#Private Data Tutorial
+
 
 ## What you will learn
-1. how to create a private 
-
+1. Privacy options in HLF
+1. How to create and deploy HLF Private Data Collections
 
 ## Prerequisites
 A computer, Mac, Linux or Windows
@@ -15,9 +15,11 @@ For this repo, the Private data tutorial
 was setup on a MacBook Pro running v10.14.5 (Mojave)
 
 
-### We ran these commands as regular user
+### Setup environment 
+#### We ran these commands as regular user
 
-### Install or check you have the following on your computer.
+
+#### Install or check you have the following on your computer.
 
 > cURL
 > docker - ver 17.06.2-ce or greater
@@ -89,7 +91,8 @@ git clone https://github.com/hyperledger/fabric.git
 
 ```
 
-## Setting up the [private data tutorial](https://hyperledger-fabric.readthedocs.io/en/release-1.4/install.html)
+## Setting up 
+[How to setup a HLF basic network](https://hyperledger-fabric.readthedocs.io/en/release-1.4/install.html)
 
 ``` sh
 # create a directory where you want to install
@@ -133,9 +136,9 @@ export PATH=/Users/Grant.Steinfeld@ibm.com/Documents/dev/hlf-private-data-git/fa
 ```
 
 
-## Now we have the HLF binaries installed we can 
-## go ahead with the tutorial
-https://hyperledger-fabric.readthedocs.io/en/release-1.4/private_data_tutorial.html#pd-build-json
+### Now we have the HLF binaries installed we can proceed with the Tutorial
+
+## The Private Data Tutorial
 
 ### 1. Build collection defintion JSON file
 `The first step in privatizing data on a channel is to build a collection definition which defines access to the private data.`
