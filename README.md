@@ -1,12 +1,12 @@
-# HYPERLEDGER FABRIC FOR THE ENTERPRISE
-## Privacy and Security Strategies 
+# HYPERLEDGER FABRIC(HLF) FOR THE ENTERPRISE
+## __ Privacy and Security Strategies 
 
 
 #Private Data Tutorial
 
 ## What you will learn
-1. how to create a private 
-
+1. Privacy options in HLF
+1. How to create and deploy HLF Private Data Collections
 
 ## Prerequisites
 A computer, Mac, Linux or Windows
