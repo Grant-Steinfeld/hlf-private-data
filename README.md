@@ -90,9 +90,9 @@ python --version
 git clone https://github.com/hyperledger/fabric.git
 
 ```
-# Private Data Tutorial
 
-## Setting up the [private data tutorial](https://hyperledger-fabric.readthedocs.io/en/release-1.4/install.html)
+## Setting up 
+[How to setup a HLF basic network](https://hyperledger-fabric.readthedocs.io/en/release-1.4/install.html)
 
 ``` sh
 # create a directory where you want to install
@@ -136,9 +136,9 @@ export PATH=/Users/Grant.Steinfeld@ibm.com/Documents/dev/hlf-private-data-git/fa
 ```
 
 
-## Now we have the HLF binaries installed we can 
-## go ahead with the tutorial
-https://hyperledger-fabric.readthedocs.io/en/release-1.4/private_data_tutorial.html#pd-build-json
+### Now we have the HLF binaries installed we can proceed with the Tutorial
+
+## The Private Data Tutorial
 
 ### 1. Build collection defintion JSON file
 `The first step in privatizing data on a channel is to build a collection definition which defines access to the private data.`
