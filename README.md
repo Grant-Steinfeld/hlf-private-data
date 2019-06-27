@@ -19,7 +19,10 @@ Presenters: Grant Steinfeld and Matthew Cousens
 
 [Worshop given 06/26/2019  Presentation deck](https://github.com/Grant-Steinfeld/hlf-private-data/blob/master/WORKSHOP-Hyperledger-Fabric-for-the-Enterprise-Privacy-and-Security-Strategies-v2.0.0-2019-6-26.pptx)
 Presenter: Grant Steinfeld
-[Webex of event](https://ibm.box.com)
+
+[Webex recording of event](https://ibm.webex.com/mw3300/mywebex/nbrshared.do)
+use pwd `7pUrbeie`
+quality of audio not great ( PA equipment not very good and recording via usb mic in front of PA speaker )
 
 
 ## Prerequisites for this pattern
