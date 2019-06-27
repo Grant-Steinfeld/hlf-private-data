@@ -12,10 +12,12 @@ Presentation  pattern
 1. How to add attributes to your certificates in order to allow for roles and permissions  at the application / client level.
 
 ## Presentation Slide decks
-[Meetup given 06/24/2-19 Presentation deck](./xxxx.xlsx)
+### Venue: [NYC Blockhain  Center ](https://blockchaincenter.nyc/)
+[Meetup given 06/24/2-19 Presentation deck](https://github.com/Grant-Steinfeld/hlf-private-data/blob/master/Hyperledger-Fabric-for-the-Enterprise-Privacy-and-Security-Strategies-v1.0.0-2019-6-24.pptx)
 Presenters: Grant Steinfeld and Matthew Cousens
 
-[Worshop given 06/26/2019  Presentation deck(./xxxx.x)
+
+[Worshop given 06/26/2019  Presentation deck](https://github.com/Grant-Steinfeld/hlf-private-data/blob/master/WORKSHOP-Hyperledger-Fabric-for-the-Enterprise-Privacy-and-Security-Strategies-v2.0.0-2019-6-26.pptx)
 Presenter: Grant Steinfeld
 [Webex of event](https://ibm.box.com)
 
