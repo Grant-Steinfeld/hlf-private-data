@@ -5,7 +5,7 @@ Presentation  pattern
 
 
 ## What you will learn
-1. Security wrt HLF - from on-premise to Red Hat VM /bare metal - to IBM Cloud journey free, to pay-as-you go accounts to enterprise HLF running on LinuxONE
+1. Security with respect to hardware.  Ranging from commodity hardware, to Mainframe running LinuxONE
 1. Security quality of HLF ( Audit - Quintessance v1.1 and upcoming audits for v2.0)
 1. Privacy options in HLF 
 1. How to create and deploy HLF Private Data Collections
@@ -20,9 +20,6 @@ Presenters: Grant Steinfeld and Matthew Cousens
 [Worshop given 06/26/2019  Presentation deck](https://github.com/Grant-Steinfeld/hlf-private-data/blob/master/WORKSHOP-Hyperledger-Fabric-for-the-Enterprise-Privacy-and-Security-Strategies-v2.0.0-2019-6-26.pptx)
 Presenter: Grant Steinfeld
 
-[Webex recording of event](https://ibm.webex.com/mw3300/mywebex/nbrshared.do)
-use pwd `7pUrbeie`
-quality of audio not great ( PA equipment not very good and recording via usb mic in front of PA speaker )
 
 
 ## Prerequisites for this pattern
