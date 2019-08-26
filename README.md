@@ -1,23 +1,36 @@
 # HYPERLEDGER FABRIC(HLF) FOR THE ENTERPRISE
-## __ Privacy and Security Strategies 
+## Privacy and Security Strategies 
 
-
+Presentation  pattern
 
 
 ## What you will learn
-1. Privacy options in HLF
+1. Security with respect to hardware.  Ranging from commodity hardware, to Mainframe running LinuxONE
+1. Security quality of HLF ( Audit - Quintessance v1.1 and upcoming audits for v2.0)
+1. Privacy options in HLF 
 1. How to create and deploy HLF Private Data Collections
+1. How to add attributes to your certificates in order to allow for roles and permissions  at the application / client level.
 
-## Prerequisites
+## Presentation Slide decks
+### Venue: [NYC Blockhain  Center ](https://blockchaincenter.nyc/)
+[Meetup given 06/24/2-19 Presentation deck](https://github.com/Grant-Steinfeld/hlf-private-data/blob/master/Hyperledger-Fabric-for-the-Enterprise-Privacy-and-Security-Strategies-v1.0.0-2019-6-24.pptx)
+Presenters: Grant Steinfeld and Matthew Cousens
+
+
+[Worshop given 06/26/2019  Presentation deck](https://github.com/Grant-Steinfeld/hlf-private-data/blob/master/WORKSHOP-Hyperledger-Fabric-for-the-Enterprise-Privacy-and-Security-Strategies-v2.0.0-2019-6-26.pptx)
+Presenter: Grant Steinfeld
+
+
+
+## Prerequisites for this pattern
 A computer, Mac, Linux or Windows
 
 For this repo, the Private data tutorial
 was setup on a MacBook Pro running v10.14.5 (Mojave)
 
 
-### Setup environment 
+### Setup environment (Mac) (Setup on RHEL7 failed)
 #### We ran these commands as regular user
-
 
 #### Install or check you have the following on your computer.
 
@@ -81,6 +94,9 @@ Python 2.7.5
 ```sh
 node --version
 python --version
+docker version
+docker_compose version
+go version
 
 
 ### checkout the Hyperledger Fabric repo
@@ -228,27 +244,34 @@ and how Org2 peers do NOT see the sensitive data `price`
 
 ![org2 does not see price](https://hyperledger-fabric.readthedocs.io/en/release-1.4/_images/SideDB-org2.png)
 
-### Try the demo yourself!
-https://hyperledger-fabric.readthedocs.io/en/release-1.4/private_data_tutorial.html#pd-build-json
-
+# The demo for Private Data
 #### demo parts of it especailly adding data to one Org1 and seeing how part of it is private to Org1
 #### Org2 will not see it
 #### additionally demo purging the private data based off block length
 
 
+### Try the demo yourself!
+By now you have seen the demo in action, try it out for yourself!
+
+https://hyperledger-fabric.readthedocs.io/en/release-1.4/private_data_tutorial.html#pd-build-json
 
 
-##Resources
-IBM Code Pattern Medical Data using IBM Cloud IBPv2
-https://developer.ibm.com/patterns/storing-private-data-off-chain-using-blockchain-think-healthcare-use-case
+# The Fab Car demo on IBM Cloud (IBPv2.0) of certficate attribute decoration 
+## e.g. use for client roles and permissions
+[see video here(tbprepped_still.mp4)
 
+
+## Resources
+Use a Kubernetes cluster to deploy a Fabric network smart contract onto blockchain
+- Angular client uses Node.js API to interact with the network
+https://developer.ibm.com/patterns/write-a-smart-contract-for-the-fabcarcommercial-paper-or-iks-cluster-with-saas-v2-beta-network-think/
 
 Hyperledger Fabric
 HLF Tutorial Marble Data
 https://hyperledger-fabric.readthedocs.io/en/release-1.4/private_data_tutorial.html
 
 
-Node Version Manager(NVM)
+settting up Node Version Manager(NVM)
 https://github.com/nvm-sh/nvm#install--update-script
 
 
