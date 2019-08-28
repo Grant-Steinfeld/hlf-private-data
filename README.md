@@ -9,9 +9,9 @@
 1. How to add attributes to your certificates in order to allow for roles and permissions  at the application / client level.
 
 ## Presentation Slide decks
-This event has been given *4* times so far, and with the feedback and great conversations, the iterations of the talk has continually improved, thanks to all attendeess and co-workers for their feedback and collaboration!
+This event has been given *4* times so far, and with the feedback and great conversations, the iterations of the talk has continually improved, thanks to all audiences and co-workers for their feedback and collaboration to improve it.  If you have any comments please let us know on twitter @gsteinfeld or open and issue on this repo.  Thanks!
 
-[Presentation given 08/27/2019 deck] () - [NYC Blockhain  Center ](https://blockchaincenter.nyc/) to be added soon!  
+[Presentation given 08/27/2019 deck] (https://github.com/Grant-Steinfeld/hlf-private-data/raw/master/PRESENTATON-Hyperledger-Fabric-for-the-Enterprise-Privacy-and-Security-Strategies-v3.0.2-2019-8-27.pptx) - [NYC Blockhain  Center ](https://blockchaincenter.nyc/)   
 
 [Presentation given 08/26/2019 deck] - [NYC Blockhains Devs Meetup - WeWork Dumbo ](https://www.meetup.com/nyc-blockchain-devs/) to be added soon!  
 
