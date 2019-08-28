@@ -1,9 +1,6 @@
 # HYPERLEDGER FABRIC(HLF) FOR THE ENTERPRISE
 ## Privacy and Security Strategies 
 
-Presentation  pattern
-
-
 ## What you will learn
 1. Security with respect to hardware.  Ranging from commodity hardware, to Mainframe running LinuxONE
 1. Security quality of HLF ( Audit - Quintessance v1.1 and upcoming audits for v2.0)
@@ -14,7 +11,7 @@ Presentation  pattern
 ## Presentation Slide decks
 This event has been given *4* times so far, and with the feedback and great conversations, the iterations of the talk has continually improved, thanks to all attendeess and co-workers for their feedback and collaboration!
 
-[Presentation given 08/27/2019 deck] - [NYC Blockhain  Center ](https://blockchaincenter.nyc/) to be added soon!  
+[Presentation given 08/27/2019 deck] () - [NYC Blockhain  Center ](https://blockchaincenter.nyc/) to be added soon!  
 
 [Presentation given 08/26/2019 deck] - [NYC Blockhains Devs Meetup - WeWork Dumbo ](https://www.meetup.com/nyc-blockchain-devs/) to be added soon!  
 
