@@ -11,27 +11,46 @@
 ## Presentation Slide decks
 This event has been given *4* times so far, and with the feedback and great conversations, the iterations of the talk has continually improved, thanks to all audiences and co-workers for their feedback and collaboration to improve it.  If you have any comments please let us know on twitter @gsteinfeld or open and issue on this repo.  Thanks!
 
-[Presentation given 08/27/2019 deck] (https://github.com/Grant-Steinfeld/hlf-private-data/raw/master/PRESENTATON-Hyperledger-Fabric-for-the-Enterprise-Privacy-and-Security-Strategies-v3.0.2-2019-8-27.pptx) - [NYC Blockhain  Center ](https://blockchaincenter.nyc/)   
+### Best to view the latest!
+[Presentation slide deck 08/27/2019](https://github.com/Grant-Steinfeld/hlf-private-data/raw/master/PRESENTATON-Hyperledger-Fabric-for-the-Enterprise-Privacy-and-Security-Strategies-v3.0.2-2019-8-27.pptx) - [NYC Blockhain  Center ](https://blockchaincenter.nyc/)   
 
-[Presentation given 08/26/2019 deck] - [NYC Blockhains Devs Meetup - WeWork Dumbo ](https://www.meetup.com/nyc-blockchain-devs/) to be added soon!  
+`Presenter: Grant Steinfeld`
 
+### Past:
+[Presentation given 08/26/2019 deck](https://github.com/Grant-Steinfeld/hlf-private-data/raw/master/PRESENTATON-Hyperledger-Fabric-for-the-Enterprise-Privacy-and-Security-Strategies-v3.0.0-2019-8-26.pptx) - [NYC Blockhains Devs Meetup - WeWork Dumbo ](https://www.meetup.com/nyc-blockchain-devs/)   
+
+`Presenter: Grant Steinfeld`
 
 [Meetup given 06/24/2-19 Presentation deck](https://github.com/Grant-Steinfeld/hlf-private-data/blob/master/Hyperledger-Fabric-for-the-Enterprise-Privacy-and-Security-Strategies-v1.0.0-2019-6-24.pptx) - [NYC Blockhain  Center ](https://blockchaincenter.nyc/)
-Presenters: Grant Steinfeld and Matthew Cousens
+
+`Presenters: Grant Steinfeld and Matthew Cousens`
 
 [Worshop given 06/26/2019  Presentation deck](https://github.com/Grant-Steinfeld/hlf-private-data/blob/master/WORKSHOP-Hyperledger-Fabric-for-the-Enterprise-Privacy-and-Security-Strategies-v2.0.0-2019-6-26.pptx) - [NYC Blockhain  Center ](https://blockchaincenter.nyc/)
-Presenter: Grant Steinfeld
+
+`Presenter: Grant Steinfeld`
 
 
 
-### prerequisites for Workshop pattern - Private Data Marbles collection
+### prerequisites for Workshop pattern
+
+
 A computer, Mac, Linux or Windows
 
-For this repo, the Private data tutorial
+For this repo, the Private data tutorial 
 was setup on a MacBook Pro running v10.14.5 (Mojave)
 
+## Latest update!
+`Note follow the hyperledger fabric docs tutorial as these instructions below may be out of date!`
 
-### Setup environment (Mac) (Setup on RHEL7 failed)
+[Private Data Marbles collection[(https://hyperledger-fabric.readthedocs.io/en/release-1.4/private_data_tutorial.html)
+
+
+---------------------------------------------
+
+### Summary from Worshop given 06/26/2019
+
+Setup environment (Mac) (Setup on RHEL7 failed)
+
 #### We ran these commands as regular user
 
 #### Install or check you have the following on your computer.
