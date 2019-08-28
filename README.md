@@ -12,7 +12,7 @@ Presentation  pattern
 1. How to add attributes to your certificates in order to allow for roles and permissions  at the application / client level.
 
 ## Presentation Slide decks
-This event has been given 4 times so far, and with the feedback and great conversations, the iterations of the talk has continually improved, thanks to all attendeess and co-workers for their feedback and collaboration!
+This event has been given *4* times so far, and with the feedback and great conversations, the iterations of the talk has continually improved, thanks to all attendeess and co-workers for their feedback and collaboration!
 
 [Presentation given 08/27/2019 deck] - [NYC Blockhain  Center ](https://blockchaincenter.nyc/) to be added soon!  
 
