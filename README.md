@@ -12,17 +12,22 @@ Presentation  pattern
 1. How to add attributes to your certificates in order to allow for roles and permissions  at the application / client level.
 
 ## Presentation Slide decks
-### Venue: [NYC Blockhain  Center ](https://blockchaincenter.nyc/)
-[Meetup given 06/24/2-19 Presentation deck](https://github.com/Grant-Steinfeld/hlf-private-data/blob/master/Hyperledger-Fabric-for-the-Enterprise-Privacy-and-Security-Strategies-v1.0.0-2019-6-24.pptx)
+This event has been given 4 times so far, and with the feedback and great conversations, the iterations of the talk has continually improved, thanks to all attendeess and co-workers for their feedback and collaboration!
+
+[Presentation given 08/27/2019 deck] - [NYC Blockhain  Center ](https://blockchaincenter.nyc/) to be added soon!  
+
+[Presentation given 08/26/2019 deck] - [NYC Blockhains Devs Meetup - WeWork Dumbo ](https://www.meetup.com/nyc-blockchain-devs/) to be added soon!  
+
+
+[Meetup given 06/24/2-19 Presentation deck](https://github.com/Grant-Steinfeld/hlf-private-data/blob/master/Hyperledger-Fabric-for-the-Enterprise-Privacy-and-Security-Strategies-v1.0.0-2019-6-24.pptx) - [NYC Blockhain  Center ](https://blockchaincenter.nyc/)
 Presenters: Grant Steinfeld and Matthew Cousens
 
-
-[Worshop given 06/26/2019  Presentation deck](https://github.com/Grant-Steinfeld/hlf-private-data/blob/master/WORKSHOP-Hyperledger-Fabric-for-the-Enterprise-Privacy-and-Security-Strategies-v2.0.0-2019-6-26.pptx)
+[Worshop given 06/26/2019  Presentation deck](https://github.com/Grant-Steinfeld/hlf-private-data/blob/master/WORKSHOP-Hyperledger-Fabric-for-the-Enterprise-Privacy-and-Security-Strategies-v2.0.0-2019-6-26.pptx) - [NYC Blockhain  Center ](https://blockchaincenter.nyc/)
 Presenter: Grant Steinfeld
 
 
 
-## Prerequisites for this pattern
+### prerequisites for Workshop pattern - Private Data Marbles collection
 A computer, Mac, Linux or Windows
 
 For this repo, the Private data tutorial
